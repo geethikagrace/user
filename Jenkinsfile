@@ -1,5 +1,5 @@
 @Library('roboshop') _
 
-env.component="user"
+component="user"
 
 nodejs()
